@@ -173,6 +173,14 @@ section .title::after{
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
+.home .update{
+    text-align: justify;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    
+}
 .home .max-width{
   width: 100%;
   display: flex;
